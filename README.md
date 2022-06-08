@@ -1,16 +1,20 @@
-### Hi there 👋
+### Oii, pode me chamar de Kadu! 🦧
 
-<!--
-**Kadrugs/Kadrugs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sou estudante, desenvolvedor e fanatico por tecnologia 👨‍💻
 
-Here are some ideas to get you started:
+- 🌱 Aperfeiçoando C#  
+- 🧱 Contruindo RESTful API's em C# .Net6
+- 🏗️ Planos 2022: Me aprofundar no desenvolvimento backend em C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Conecte comigo
+
+<div>
+  <a href="https://www.linkedin.com/in/carlos-garcia-barbosa-27b7361b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+<div align="center">
+<img width="450em" alt="Status Github Kadrugs" src="https://github-readme-stats.vercel.app/api?username=Kadrugs&show_icons=true&theme=dracula" />
+<img width="380em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kadrugs&layout=compact&theme=dracula"/>
+</div>
+
+![Snake animation](https://github.com/Kadrugs/Kadrugs/blob/output/github-contribution-grid-snake.svg)
